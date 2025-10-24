@@ -31,6 +31,19 @@ header ul{
     padding: 64px;
 }
 
+.hero-left{
+    flex:1;
+}
+
+.hero-image{
+    flex:1;
+    background: grey;
+    color:#E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .hero .hero-title{
     font-size: 48px;
     color: #F9FAF8;
