@@ -97,6 +97,17 @@ header ul{
     border-radius: 10px;
 }
 
+.third-section{
+    font-family: "Roboto", sans-serif;
+    background-color: #E5E7EB;
+    font: 600 36px;
+    color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 64px;
+}
+
 footer{
     font-family:"Roboto", sans-serif;
     background-color: #1F2937;
