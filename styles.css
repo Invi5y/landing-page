@@ -108,6 +108,17 @@ header ul{
     padding: 0 64px;
 }
 
+p{
+    margin:0;
+}
+
+.quote-author{
+    display:flex;
+    align-self: flex-end;
+    font-weight: 900;
+}
+
+
 footer{
     font-family:"Roboto", sans-serif;
     background-color: #1F2937;
