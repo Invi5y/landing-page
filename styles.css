@@ -105,7 +105,7 @@ header ul{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 0 64px;
+    padding: 12px 64px;
 }
 
 p{
@@ -118,6 +118,46 @@ p{
     font-weight: 900;
 }
 
+.fourth-section{
+    background-color: #3882F6;
+    margin: 36px;
+    padding: 12px;
+    color:#F9FAF8;
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fourth-text{
+    display:flex;
+    flex-direction:column;
+}
+
+h1{
+    margin:0;
+    font-size: 12px;
+}
+
+.fourth-text p{
+    font-size: 8px;
+    font-weight: 200;
+}
+
+.fourth-button{
+    display: flex;
+    justify-content: center;
+    flex:1;
+}
+
+.fourth-button button{
+    background: #3882F6;
+    color: #F9FAF8;
+    border: solid #F9FAF8 1px;
+    box-shadow: none;
+    border-radius: 4px;
+    padding:4px;
+}
 
 footer{
     font-family:"Roboto", sans-serif;
